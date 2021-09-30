@@ -1,0 +1,27 @@
+<html>
+	<head>
+		<title>
+			external linking
+		</title>
+	<body>
+			<h1 align= "middle"> 
+		<b>
+		<i>
+		<u>
+		external linking
+		</u>
+		</i>
+		</b>
+		</h1>
+	<a href="perdet.html">
+	persdonal details
+	</a><br>
+	<a href="edudet.html">
+	educational details
+	</a><br>
+	<a href ="proexp.html">
+	project experience
+	</a><br>
+	</body>
+	</head>
+</html>
